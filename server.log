@@ -1,0 +1,23 @@
+[14:13:38] alt:V Server 14.49 (release)
+[14:13:40] Starting Ioannis alt:V Server on 0.0.0.0:7788
+[14:13:42] Loading resource chat
+[14:13:42][Warning] Using .cfg files is discouraged, consider using the '--convert-config-format' commandline argument
+[14:13:45] Loaded resource chat
+[14:13:45] Loading resource AltVServer
+[14:14:00] Server wurde gestartet!
+[14:14:03] MYSQL Verbindung erfolgreich aufgebaut!
+[14:14:03] Loaded resource AltVServer
+[14:14:03] Loading resource AltVClientside
+[14:14:03][Warning] Using .cfg files is discouraged, consider using the '--convert-config-format' commandline argument
+[14:14:04] Loaded resource AltVClientside
+[14:14:04] Required server permissions:
+[14:14:04] Optional server permissions:
+[14:14:04] Starting HTTP server on 0.0.0.0:7788
+[14:14:04] Main thread started (ThreadId: 18584)
+[14:14:04] Colshape thread started (ThreadId: 19188)
+[14:14:04] EntityStreamer thread started (ThreadId: 21472)
+[14:14:04] Sync thread started (ThreadId: 21480)
+[14:14:04] Network thread started (ThreadId: 21488)
+[14:14:04] Console thread started (ThreadId: 21492)
+[14:14:04][Warning] Server started in debug mode
+[14:16:54][Warning] ReceiveData() took: 51 ms, received events:  0 , packets sent:  0
