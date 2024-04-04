@@ -24,10 +24,10 @@ namespace AltVServer
 
         public Datenbank()
         {
-            this.Host = "ioannisdev.de";
-            this.Username = "samp";
-            this.Password = "password";
-            this.Database = "altv";
+            this.Host = "";
+            this.Username = "";
+            this.Password = "";
+            this.Database = "";
         }
 
         public static String GetConnectionString()
